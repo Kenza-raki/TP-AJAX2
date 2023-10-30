@@ -24,7 +24,8 @@ L'application  offre les fonctionnalités suivantes :
 - La page d'accueil est la première interface que les utilisateurs voient lorsqu'ils accèdent à l'application. Elle présente un aperçu du système.
 - Sur cette page, un **Pie Chart** est affiché pour montrer le nombre total de machines enregistrées dans le système par marque.
   
-  ![image](https://github.com/Kenza-raki/TP-AJAX2/assets/116951093/a0152663-33b2-4327-a99c-413fb74ffce1)
+ <img width="960" alt="image" src="https://github.com/Kenza-raki/TP-AJAX2/assets/116951093/95500669-7748-405d-a61a-e8d21edb7dc8">
+
 
   
  ### Gestion des Étudiants
